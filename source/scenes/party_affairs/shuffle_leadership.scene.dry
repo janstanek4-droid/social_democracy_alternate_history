@@ -403,7 +403,7 @@ Carl Severing is now an advisor.
 @add_hampl
 title: Antonín Hampl
 subtitle: Antonín Hampl is long-time chairman of ČSSD. He is commited to work with other democratic parties.
-card-image: img/portraits/SeveringCarl.jpg
+card-image: img/portraits/Hampl.jpg
 tags: reformist_advisor
 view-if: hampl_advisor = 0 and n_advisors < 3
 on-arrival: hampl_advisor = 1; n_advisors += 1; reformist_strength += 5
